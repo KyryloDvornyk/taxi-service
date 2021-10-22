@@ -1,7 +1,8 @@
 # Taxi service
 
 Taxi service is a Java project for client for working with server and database. This is my pet project. 
-Client can log in with browser and use primitive user interface to work with data from db. 
+Client can log in with browser and use primitive user interface to work with data from db. Client can add, update, 
+delete, get data from db.
 
 ## Installation
 
